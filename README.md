@@ -1,7 +1,3 @@
-Name: Dariia Potapenko; student ID: 52317109
-
-
-
 Colour Scheme
 When choosing the colour palette for the website, I was inspired by the city's existing logo. Also, focusing on the ancient side of the city, I chose colours that are associated with old artefacts that have darkened with time and yellowed pages of books.
 #D4D1CA : used for the background of the pages and text in the navigation bar and cards on the visit page;
